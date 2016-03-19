@@ -20,7 +20,7 @@ body {
 }
 
 .camera__video {
-    /*visibility: hidden;*/
+    visibility: hidden;
 }
 
 .camera__canvas {
